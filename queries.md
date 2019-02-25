@@ -65,4 +65,4 @@ group by City
 
 ## delete all users that have no orders. Should delete 17 (or 18 if you haven't deleted the record added) records.
 
-
+.insert(correctanswer)
